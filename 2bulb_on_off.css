@@ -1,0 +1,17 @@
+.circle
+{
+    background-color: aliceblue;
+    border-radius: 50%;
+    border: 1px solid black ;
+    
+    
+    height: 300px;
+    width: 300px;
+}
+.bt{
+    padding: 2px 5px 2px 5px;
+    background-color: red;
+    border-radius: 20%;
+    border-color: aliceblue;
+    
+}
